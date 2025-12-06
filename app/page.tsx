@@ -23,7 +23,7 @@ const page = () => {
                 <a href="#featured-work" className="px-8 py-4 bg-slate-900 text-white rounded-xl font-semibold hover:bg-slate-800 transition shadow-lg hover:shadow-xl flex items-center justify-center gap-2">
                   View My Work <i className="fa-solid fa-arrow-right"></i>
                 </a>
-                <a href="contact.html" className="px-8 py-4 bg-white text-slate-900 border-2 border-slate-200 rounded-xl font-semibold hover:border-indigo-600 hover:text-indigo-600 transition flex items-center justify-center">
+                <a href="/contact" className="px-8 py-4 bg-white text-slate-900 border-2 border-slate-200 rounded-xl font-semibold hover:border-indigo-600 hover:text-indigo-600 transition flex items-center justify-center">
                   Contact Me
                 </a>
               </div>
