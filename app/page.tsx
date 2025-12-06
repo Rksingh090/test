@@ -14,10 +14,10 @@ const page = () => {
               </div>
               <h1 className="text-5xl lg:text-7xl font-extrabold text-slate-900 leading-tight mb-6">
                 Turning Coffee into <br />
-                  <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">Complex Code.</span>
+                  <span className="text-transparent bg-clip-text bg-linear-to-r from-indigo-600 to-purple-600">Complex Code.</span>
               </h1>
               <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                Hello! I'm Sakshi. I am an engineering student passionate about building scalable web applications and solving real-world problems through logic and design.
+                Hello! I'm Sakshi Dwivedi. I am an engineering student passionate about building scalable web applications and solving real-world problems through logic and design.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <a href="#featured-work" className="px-8 py-4 bg-slate-900 text-white rounded-xl font-semibold hover:bg-slate-800 transition shadow-lg hover:shadow-xl flex items-center justify-center gap-2">
@@ -41,7 +41,7 @@ const page = () => {
               <div className="absolute top-0 right-40 w-96 h-96 bg-indigo-200 rounded-full mix-blend-multiply filter blur-3xl opacity-70 animate-blob animation-delay-2000"></div>
 
               <div className="relative animate-float bg-white p-4 rounded-2xl shadow-2xl border border-gray-100 max-w-sm rotate-3 hover:rotate-0 transition duration-500">
-                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Sakshi Coding" className="rounded-xl object-cover h-80 w-full" />
+                <img src="/profile.jpg" alt="Sakshi Coding" className="rounded-xl object-cover h-80 w-full" />
                   <div className="p-4">
                     <div className="flex items-center gap-3 mb-2">
                       <div className="w-3 h-3 rounded-full bg-red-500"></div>

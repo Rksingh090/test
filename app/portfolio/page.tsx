@@ -16,14 +16,14 @@ const page = () => {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                             <a href="#projects" className="px-8 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 hover:shadow-lg transition">View My Work</a>
-                            <a href="#" className="px-8 py-3 bg-white border border-gray-300 text-gray-700 rounded-lg font-semibold hover:bg-gray-50 transition">
+                            <a href="/resume.pdf" download={true} className="px-8 py-3 bg-white border border-gray-300 text-gray-700 rounded-lg font-semibold hover:bg-gray-50 transition">
                                 <i className="fa-solid fa-download mr-2"></i> Download CV
                             </a>
                         </div>
                     </div>
                     <div className="flex-1 flex justify-center">
                         <div className="relative w-64 h-64 md:w-80 md:h-80 bg-indigo-200 rounded-full overflow-hidden border-4 border-white shadow-xl">
-                            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Sakshi&backgroundColor=c7d2fe" alt="Sakshi" className="w-full h-full object-cover" />
+                            <img src="/avatar.jpg" alt="Sakshi" className="w-full h-full object-cover" />
                         </div>
                     </div>
                 </div>
