@@ -23,7 +23,7 @@ const page = () => {
                     </div>
                     <div className="flex-1 flex justify-center">
                         <div className="relative w-64 h-64 md:w-80 md:h-80 bg-indigo-200 rounded-full overflow-hidden border-4 border-white shadow-xl">
-                            <img src="/avatar.jpg" alt="Sakshi" className="w-full h-full object-cover" />
+                            <img src="/avatarnew.jpg" alt="Sakshi" className="w-full h-full object-cover" />
                         </div>
                     </div>
                 </div>
