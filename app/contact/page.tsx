@@ -22,7 +22,7 @@ const page = () => {
                     <div className="space-y-6">
                         <div className="flex items-start space-x-4">
                             <i className="fa-solid fa-envelope mt-1 text-indigo-300"></i>
-                            <span>sakshi@example.com</span>
+                            <span>sakshidwi@example.com</span>
                         </div>
                         <div className="flex items-start space-x-4">
                             <i className="fa-solid fa-phone mt-1 text-indigo-300"></i>
